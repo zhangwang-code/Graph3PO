@@ -1,0 +1,13 @@
+Arrival_rate,Ave,P50,P90,P99,P999,P9999,sla_default_rate(%),sla_default_percentage(%),latencyFile,clusterMapFile
+200.5228,23.5573,22.8865,51.4407,116.6199,202.6077,307.4623,1.545,29.0791,cephSimResult/latency/latency_0.900000_000.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+200.6077,23.7657,22.8866,52.0749,119.1936,207.4294,304.9913,1.6731,28.461,cephSimResult/latency/latency_0.900000_001.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+199.8917,23.5758,22.8868,51.2375,117.2779,210.8734,315.9686,1.5613,29.6911,cephSimResult/latency/latency_0.900000_002.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+199.5423,23.5261,22.8869,51.1915,116.9104,198.9156,297.3623,1.5381,27.7243,cephSimResult/latency/latency_0.900000_003.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+200.0326,23.599,22.8865,51.3512,118.0923,208.155,312.8151,1.5881,30.5832,cephSimResult/latency/latency_0.900000_004.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+200.6797,23.5139,22.8867,51.1502,114.4001,210.4546,316.6442,1.45,27.9884,cephSimResult/latency/latency_0.900000_005.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+199.4146,23.5161,22.8864,51.116,116.5768,202.9182,328.9545,1.5056,28.4583,cephSimResult/latency/latency_0.900000_006.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+199.9583,23.5697,22.8867,51.2234,116.8937,206.5637,311.4825,1.5237,28.781,cephSimResult/latency/latency_0.900000_007.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+199.9319,23.6576,22.8865,51.4334,119.2645,208.0272,328.8245,1.6925,28.9648,cephSimResult/latency/latency_0.900000_008.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+200.2157,23.4416,22.8868,50.8985,114.7957,199.3121,319.4751,1.5112,26.0993,cephSimResult/latency/latency_0.900000_009.csv,scratch/CephSim2022-11-14/cluster_map_mod.csv
+,,,,,,,,,,
+,,,,,,¾ùÖµ,1.55886,28.58305,,
