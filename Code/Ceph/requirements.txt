@@ -1,0 +1,8 @@
+boto3==1.21.38
+botocore==1.24.38
+matplotlib==3.5.1
+numpy==1.22.3
+pandas==1.4.2
+scipy==1.8.0
+throttle==0.2.2
+tqdm==4.64.0
