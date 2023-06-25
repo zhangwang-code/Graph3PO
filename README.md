@@ -61,7 +61,7 @@ $ ./test.py
 ```
 
 ## Simulator Running
-> 
+> version 3.35
 ```
 $ mkdir cephSimResult                                          
 $ cd cephSimResult                                             
@@ -72,4 +72,17 @@ $ cd ..
 $ git clone https://github.com/zhangwang-code/Graph3PO.git     
 $ mv Graph3PO/CephSim scratch                                  
 $ ./waf --run scratch/CephSim/CephSim
+```
+
+> version 3.38
+```
+$ mkdir cephSimResult                                          
+$ cd cephSimResult                                             
+$ mkdir latency                                                
+$ mkdir packetTrace                                            
+$ mkdir serverTrace                                            
+$ cd ..                                                        
+$ git clone https://github.com/zhangwang-code/Graph3PO.git     
+$ mv Graph3PO/CephSim scratch                                  
+$ ./ns3 --run scratch/CephSim/CephSim
 ```
