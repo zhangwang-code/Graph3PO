@@ -29,9 +29,8 @@ This is the **official implementation** of *Graph3PO*. With *Graph3PO*, develope
 ```
 $ git clone https://gitlab.com/nsnam/ns-3-dev.git               
 $ cd ns-3-dev                                                   
-$ git checkout -b ns-3.35-branch ns-3.35                        
-$ bake.py configure -e ns-3.35                                  
-$ /waf configure --enable-examples --enable-tests               
+$ git checkout -b ns-3.35-branch ns-3.35                                                      
+$ ./waf configure --enable-examples --enable-tests               
 $ ./waf build                                                   
 $ ./test.py
 ```
