@@ -69,7 +69,7 @@ $ mkdir packetTrace
 $ mkdir serverTrace                                            
 $ cd ..                                                        
 $ git clone https://github.com/zhangwang-code/Graph3PO.git     
-$ mv Graph3PO/CephSim scratch                                  
+$ mv Graph3PO/Code/CephSim scratch                                  
 $ ./waf --run scratch/CephSim/CephSim
 ```
 
@@ -82,6 +82,6 @@ $ mkdir packetTrace
 $ mkdir serverTrace                                            
 $ cd ..                                                        
 $ git clone https://github.com/zhangwang-code/Graph3PO.git     
-$ mv Graph3PO/CephSim scratch                                  
+$ mv Graph3PO/Code/CephSim scratch                                  
 $ ./ns3 --run scratch/CephSim/CephSim
 ```
