@@ -71,7 +71,7 @@ static int SERVERNUM = 0; //osd数量
 #define RESPATH "cephSimResult"
 
 //client.h
-#define RENUM 1600000 //请求数量
+#define RENUM 160000 //请求数量
 #define RESIZE 1024 * 8 //请求平均大小 B
 #define RESIZEMAX 65000 //最大大小 B
 #define REWAIT 1.0 / 200.0 //请求平均等待时间
@@ -91,7 +91,7 @@ static int SERVERNUM = 0; //osd数量
 #define COSTMAX 0.5 //设置的cost值
 
 //CephSim.cc
-#define RUN_NUM 3 //循环次数
+#define RUN_NUM 10 //循环次数
 // #define IS_CREATE_CLUSTER_MAP   //是否重新生成拓扑结构文件
 // #define IS_CREATE_WORKLOAD  //是否重新生成负载文件
 
